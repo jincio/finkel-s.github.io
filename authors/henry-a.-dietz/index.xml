@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry A. Dietz | SF</title>
+    <link>/authors/henry-a.-dietz/</link>
+      <atom:link href="/authors/henry-a.-dietz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henry A. Dietz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 1991 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Henry A. Dietz</title>
+      <link>/authors/henry-a.-dietz/</link>
+    </image>
+    
+    <item>
+      <title>Discontent and the expected utility of rebellion: The case of Peru</title>
+      <link>/publication/muller-discontent-1991/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/muller-discontent-1991/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

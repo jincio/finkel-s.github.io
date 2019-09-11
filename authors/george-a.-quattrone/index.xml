@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George A. Quattrone | SF</title>
+    <link>/authors/george-a.-quattrone/</link>
+      <atom:link href="/authors/george-a.-quattrone/index.xml" rel="self" type="application/rss+xml" />
+    <description>George A. Quattrone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1984 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>George A. Quattrone</title>
+      <link>/authors/george-a.-quattrone/</link>
+    </image>
+    
+    <item>
+      <title>Explorations in anchoring: The effects of prior range, anchor extremity, and suggestive hints</title>
+      <link>/publication/quattrone-explorations-1984/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>/publication/quattrone-explorations-1984/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

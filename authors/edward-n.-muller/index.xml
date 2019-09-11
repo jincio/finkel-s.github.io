@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edward N. Muller | SF</title>
+    <link>/authors/edward-n.-muller/</link>
+      <atom:link href="/authors/edward-n.-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edward N. Muller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Edward N. Muller</title>
+      <link>/authors/edward-n.-muller/</link>
+    </image>
+    
+    <item>
+      <title>Rational choice and the dynamics of collective political action: Evaluating alternative models with panel data</title>
+      <link>/publication/finkel-rational-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-rational-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontent and the expected utility of rebellion: The case of Peru</title>
+      <link>/publication/muller-discontent-1991/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/muller-discontent-1991/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic crisis, incumbent performance and regime support: A comparison of longitudinal data from West Germany and Costa Rica</title>
+      <link>/publication/finkel-economic-1989/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-economic-1989/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal influence, collective rationality, and mass political action</title>
+      <link>/publication/finkel-personal-1989/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-personal-1989/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

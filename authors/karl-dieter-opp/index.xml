@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karl-Dieter Opp | SF</title>
+    <link>/authors/karl-dieter-opp/</link>
+      <atom:link href="/authors/karl-dieter-opp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karl-Dieter Opp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 1991 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Karl-Dieter Opp</title>
+      <link>/authors/karl-dieter-opp/</link>
+    </image>
+    
+    <item>
+      <title>Party identification and participation in collective political action</title>
+      <link>/publication/finkel-party-1991/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-party-1991/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal influence, collective rationality, and mass political action</title>
+      <link>/publication/finkel-personal-1989/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-personal-1989/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

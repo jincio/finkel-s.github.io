@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter R. Schrott | SF</title>
+    <link>/authors/peter-r.-schrott/</link>
+      <atom:link href="/authors/peter-r.-schrott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter R. Schrott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1995 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Peter R. Schrott</title>
+      <link>/authors/peter-r.-schrott/</link>
+    </image>
+    
+    <item>
+      <title>Campaign effects on voter choice in the German election of 1990</title>
+      <link>/publication/finkel-campaign-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-campaign-1995/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

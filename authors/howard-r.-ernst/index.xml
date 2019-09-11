@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howard R. Ernst | SF</title>
+    <link>/authors/howard-r.-ernst/</link>
+      <atom:link href="/authors/howard-r.-ernst/index.xml" rel="self" type="application/rss+xml" />
+    <description>Howard R. Ernst</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Howard R. Ernst</title>
+      <link>/authors/howard-r.-ernst/</link>
+    </image>
+    
+    <item>
+      <title>Civic education in post-apartheid South Africa: Alternative paths to the development of political knowledge and democratic values</title>
+      <link>/publication/finkel-civic-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-civic-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

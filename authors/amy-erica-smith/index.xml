@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amy Erica Smith | SF</title>
+    <link>/authors/amy-erica-smith/</link>
+      <atom:link href="/authors/amy-erica-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amy Erica Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Amy Erica Smith</title>
+      <link>/authors/amy-erica-smith/</link>
+    </image>
+    
+    <item>
+      <title>Civic education, political discussion, and the social transmission of democratic knowledge and values in a new democracy: Kenya 2002</title>
+      <link>/publication/finkel-civic-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-civic-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

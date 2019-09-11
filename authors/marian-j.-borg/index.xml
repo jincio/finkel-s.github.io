@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marian J. Borg | SF</title>
+    <link>/authors/marian-j.-borg/</link>
+      <atom:link href="/authors/marian-j.-borg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marian J. Borg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 1991 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Marian J. Borg</title>
+      <link>/authors/marian-j.-borg/</link>
+    </image>
+    
+    <item>
+      <title>Race-of-interviewer effects in a preelection poll Virginia 1989</title>
+      <link>/publication/finkel-race-interviewer-1991/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-race-interviewer-1991/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
